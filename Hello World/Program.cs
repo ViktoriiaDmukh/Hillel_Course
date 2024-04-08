@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+Console.WriteLine("Hello, World!");
 namespace HelloWorld
 {
     class Program
@@ -8,10 +8,7 @@ namespace HelloWorld
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
             Console.WriteLine("Привіт, я навчаюся у школі Hillel!");
-            Console.ReadLine();
-
+            Console.ReadKey();
         }
     }
 }
-
-
