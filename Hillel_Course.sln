@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{1DFB08FD-1852-41AA-A6C6-361CA085B7CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculating the discount amount", "Calculating the discount amount\Calculating the discount amount.csproj", "{D3073F8E-38AF-4DE2-B980-E72C00435F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1DFB08FD-1852-41AA-A6C6-361CA085B7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DFB08FD-1852-41AA-A6C6-361CA085B7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DFB08FD-1852-41AA-A6C6-361CA085B7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3073F8E-38AF-4DE2-B980-E72C00435F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3073F8E-38AF-4DE2-B980-E72C00435F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3073F8E-38AF-4DE2-B980-E72C00435F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3073F8E-38AF-4DE2-B980-E72C00435F34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
