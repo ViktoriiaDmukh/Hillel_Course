@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\vikad\OneDrive\Документы\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
 </Project>

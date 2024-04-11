@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{1DFB08FD-1852-41AA-A6C6-361CA085B7CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World", "Hello World\Hello World.csproj", "{1DFB08FD-1852-41AA-A6C6-361CA085B7CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculating the discount amount", "Calculating the discount amount\Calculating the discount amount.csproj", "{D3073F8E-38AF-4DE2-B980-E72C00435F34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculating the discount amount", "Calculating the discount amount\Calculating the discount amount.csproj", "{D3073F8E-38AF-4DE2-B980-E72C00435F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "Lesson 2\ConsoleApp1\ConsoleApp1.csproj", "{6AF52BE4-2A48-45BA-A850-E2ECCA40EC61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "Lesson 2\ConsoleApp1\ConsoleApp1.csproj", "{6AF52BE4-2A48-45BA-A850-E2ECCA40EC61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time in seconds", "Time in seconds\Time in seconds.csproj", "{171817D5-A1B9-4BA6-A31B-01F9F31837B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time in seconds", "Time in seconds\Time in seconds.csproj", "{171817D5-A1B9-4BA6-A31B-01F9F31837B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return of formative series", "Lesson 2\Return of formative series\Return of formative series.csproj", "{5984B2E4-9823-45B5-BE4F-7F55181D5609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return of formative series", "Lesson 2\Return of formative series\Return of formative series.csproj", "{5984B2E4-9823-45B5-BE4F-7F55181D5609}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{1A4E0B18-DE2C-4D8B-9A3E-19AC32A54B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{887AB24F-F9C7-4F03-98D7-82945F7A5490}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{5984B2E4-9823-45B5-BE4F-7F55181D5609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5984B2E4-9823-45B5-BE4F-7F55181D5609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5984B2E4-9823-45B5-BE4F-7F55181D5609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4E0B18-DE2C-4D8B-9A3E-19AC32A54B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4E0B18-DE2C-4D8B-9A3E-19AC32A54B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4E0B18-DE2C-4D8B-9A3E-19AC32A54B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4E0B18-DE2C-4D8B-9A3E-19AC32A54B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887AB24F-F9C7-4F03-98D7-82945F7A5490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887AB24F-F9C7-4F03-98D7-82945F7A5490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887AB24F-F9C7-4F03-98D7-82945F7A5490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887AB24F-F9C7-4F03-98D7-82945F7A5490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
