@@ -1,10 +1,10 @@
-﻿namespace First_task
+﻿namespace Third_task
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Дано тризначне число. Знайти число, отримане під час прочитання його цифр справа наліво
+            // Дано тризначне число. Знайти число, отримане під час перестановки першої та другої цифр заданого числа
 
             int triple_figuer;
             int digit1, digit2, digit3;
@@ -19,7 +19,7 @@
 
             digit3 = triple_figuer % 10;
 
-            Console.Write($"Reciprocal number is: {digit3}{digit2}{digit1}");
+            Console.Write($"Adjusted number is: {digit2}{digit1}{digit3}");
 
             Console.ReadKey();
         }

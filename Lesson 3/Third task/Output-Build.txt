@@ -1,0 +1,6 @@
+﻿Build started at 10:50 PM...
+1>------ Build started: Project: Third task, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Third task -> C:\Users\vikad\OneDrive\Документы\Hillel_Course\Lesson 3\Third task\Third task\bin\Debug\net8.0\Third task.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:50 PM and took 00.376 seconds ==========
