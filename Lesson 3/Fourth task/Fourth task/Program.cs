@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            // Дано тризначне число. Знайти число, отримане під час перестановки першої та другої цифр заданого числа.
+
             double firstValue, secondValue;
 
             Console.Write("Please enter first value: ");
