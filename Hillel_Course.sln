@@ -5,15 +5,19 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return of formative series", "Lesson 2\Return of formative series\Return of formative series.csproj", "{5984B2E4-9823-45B5-BE4F-7F55181D5609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second task", "Lesson 3\Second task\Second task.csproj", "{6F8F5A44-FDE3-4214-9430-AECD949A75F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second task", "Lesson 3\Second task\Second task.csproj", "{6F8F5A44-FDE3-4214-9430-AECD949A75F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First task", "Lesson 3\First task\First task\First task.csproj", "{83A32BBD-CC4E-46B4-93DA-DF652C4B0BB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First task", "Lesson 3\First task\First task\First task.csproj", "{83A32BBD-CC4E-46B4-93DA-DF652C4B0BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third task", "Lesson 3\Third task\Third task\Third task.csproj", "{7AB67805-80A1-409F-939F-0C3707BED5CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Third task", "Lesson 3\Third task\Third task\Third task.csproj", "{7AB67805-80A1-409F-939F-0C3707BED5CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth task", "Lesson 3\Fourth task\Fourth task\Fourth task.csproj", "{D0A0CECF-0577-4500-9551-7CF55AE88B6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fourth task", "Lesson 3\Fourth task\Fourth task\Fourth task.csproj", "{D0A0CECF-0577-4500-9551-7CF55AE88B6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fifth task", "Lesson 3\fifth task\Fifth task\Fifth task.csproj", "{160838C5-6472-49BC-89A3-E6EC5785532D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fifth task", "Lesson 3\fifth task\Fifth task\Fifth task.csproj", "{160838C5-6472-49BC-89A3-E6EC5785532D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sixth task", "Lesson 3\Sixth task\Sixth task\Sixth task.csproj", "{B0BD9379-0CC9-4D92-B367-6562EA9B9328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_4.1", "Lesson 4\Lesson_4.1\Lesson_4.1.csproj", "{8330357E-6D60-4660-BC71-2C26C341A460}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{160838C5-6472-49BC-89A3-E6EC5785532D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160838C5-6472-49BC-89A3-E6EC5785532D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160838C5-6472-49BC-89A3-E6EC5785532D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BD9379-0CC9-4D92-B367-6562EA9B9328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BD9379-0CC9-4D92-B367-6562EA9B9328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BD9379-0CC9-4D92-B367-6562EA9B9328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BD9379-0CC9-4D92-B367-6562EA9B9328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8330357E-6D60-4660-BC71-2C26C341A460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8330357E-6D60-4660-BC71-2C26C341A460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8330357E-6D60-4660-BC71-2C26C341A460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8330357E-6D60-4660-BC71-2C26C341A460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
