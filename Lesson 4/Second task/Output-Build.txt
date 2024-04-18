@@ -1,3 +1,5 @@
-﻿Build started at 10:26 PM...
-========== Build: 0 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
-========== Build completed at 10:26 PM and took 00.083 seconds ==========
+﻿Build started at 10:20 PM...
+1>------ Build started: Project: Lesson_4.4, Configuration: Debug Any CPU ------
+1>Lesson_4.4 -> C:\Users\vikad\OneDrive\Документы\Hillel_Course\Lesson 4\fourth task\Lesson_4.4\bin\Debug\net8.0\Lesson_4.4.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:20 PM and took 03.387 seconds ==========
