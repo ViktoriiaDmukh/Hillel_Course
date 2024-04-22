@@ -1,0 +1,6 @@
+﻿Build started at 1:24 AM...
+1>------ Build started: Project: Lesson_5.3, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Lesson_5.3 -> C:\Users\vikad\OneDrive\Документы\Hillel_Course\Lesson 5\3\Lesson_5.3\bin\Debug\net8.0\Lesson_5.3.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:24 AM and took 00.826 seconds ==========
