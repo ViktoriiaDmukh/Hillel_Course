@@ -25,7 +25,7 @@ namespace Lesson_12
             bicycle.Move();
             Console.WriteLine("Information about the moving transport:");
             Console.WriteLine($"Type: {auto.Type}, Max speed: {auto.Speed}, amount of the doors: {auto.amountdoors}");
-            Console.WriteLine($"Type: {bicycle.Type}, Max speed: {bicycle.Speed}");
+            Console.WriteLine($"Type: {bicycle.Type}, Max speed: {bicycle.Speed}"); 
         }
     }
 }
